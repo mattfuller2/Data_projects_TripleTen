@@ -1,2 +1,2 @@
 # Data_projects_TripleTen
-Data Science Sprint Projects
+Projects I worked on while attending the Data Science TripleTen Bootcamp

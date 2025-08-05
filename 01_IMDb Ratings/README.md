@@ -1,4 +1,4 @@
-# IMDb Ratings---Sprint 1
+# Sprint 1: IMDb Ratings
 
 This repository contains the code and analysis for the project "Show Rating Analysis," which aims to analyze the relationship between show ratings and the number of votes. The project uses a dataset containing information about shows, their ratings, genres, and release years.
 
